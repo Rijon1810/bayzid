@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+form {
+  width: 100%;
+  margin: 50px;
+  justify-content: center;
+}
+.form label {
+  display: block;
+}
+.form .name,
+.form .email,
+.form .add {
+  float: left;
+  margin-right: 10px;
+}
